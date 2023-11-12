@@ -21,7 +21,7 @@ O Spark foi projetado para ser altamente escalável, sendo capaz de processar gr
 
 O Objetivo desse hands-on é fazer uma breve introdução dessas três bibliotecas e passar os principais comandos de cada uma. Para executar é necessário ter o python e o Jupyter Notebook instalados.
 
-O Notebook com o código foi disponibilizado no meu github e pode ser acessado <a href='[https://github.com/rafaelrlima/pandas_polars_pyspark](https://github.com/rafaelrlima/pandas_polars_pyspark/blob/main/Pandas%20vs%20Polar%20vs%20PySpark.ipynb)'>clicando aqui</a>.
+O Notebook com o código foi disponibilizado no meu github e pode ser acessado <a href='https://github.com/rafaelrlima/pandas_polars_pyspark/blob/main/Pandas%20vs%20Polar%20vs%20PySpark.ipynb'>clicando aqui</a>.
 
 ## Instalação / Configuração
 
