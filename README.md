@@ -19,9 +19,9 @@ O Polars é uma biblioteca de processamento de dados rápida e eficiente, projet
 
 O Spark foi projetado para ser altamente escalável, sendo capaz de processar grandes volumes de dados distribuídos entre muitos computadores. Ele fornece APIs em várias liguagens de programação. A manipulação de dataframes utilizando a API da linguagem Python é feita com a biblioteca PySpark. O PySpark é ideal para tarefas de análise de dados, como machine learning, procesamento de texto, análise de dados em tempo real e muito mais. O PySpark oferece muitas vantagens para empresas que precisam lidar com grandes volumes de dados, como redução de custos, escalabilidade, flixibilidade e eficiência.
 
-O Objetivo desse hands-on é fazer uma breve introdução dessas três bibliotecas e passar os principais comandos de cada uma. Para executar é necessário ter o python e o Jupyter Notebook instalado.
+O Objetivo desse hands-on é fazer uma breve introdução dessas três bibliotecas e passar os principais comandos de cada uma. Para executar é necessário ter o python e o Jupyter Notebook instalados.
 
-O Notebook com o código foi disponibilizado no meu github e pode ser acessado <a href='https://github.com/rafaelrlima/pandas_polars_pyspark'>clicando aqui</a>.
+O Notebook com o código foi disponibilizado no meu github e pode ser acessado <a href='[https://github.com/rafaelrlima/pandas_polars_pyspark](https://github.com/rafaelrlima/pandas_polars_pyspark/blob/main/Pandas%20vs%20Polar%20vs%20PySpark.ipynb)'>clicando aqui</a>.
 
 ## Instalação / Configuração
 
